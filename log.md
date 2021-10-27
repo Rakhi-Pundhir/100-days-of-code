@@ -1,10 +1,9 @@
 # 100 Days Of Code - Log
-### Day 1: June 27, Monday
+### Day 1: October 27, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
+**Today's Progress**: Started with **arrays** in **Data Structures and Algorithms**.\
+                     Also, learned **C++ STL-vectors, maps and sets** since most of the problems I encountered required vectors.
+                                          
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Sort an array of 0,1 and 2](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day1_a.cpp)
+2. [Remove duplicates from a sorted array](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day1_b.cpp)
