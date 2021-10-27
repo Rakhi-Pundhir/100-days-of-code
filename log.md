@@ -7,3 +7,5 @@
 **Link(s) to work**
 1. [Sort an array of 0,1 and 2](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day1_a.cpp)
 2. [Remove duplicates from a sorted array](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day1_b.cpp)
+
+[post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_100daysofcode-datastructures-algorithms-activity-6859162020344938496-JuSb)
