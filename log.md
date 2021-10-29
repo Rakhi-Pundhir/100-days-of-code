@@ -21,3 +21,13 @@
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1453776797544292374)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day2-100daysofcode-100daysofcoding-activity-6859540895470108672-uzmq)
+
+### Day 3: October 29, Friday
+
+**Today's Progress**: Problem : **Maximum Subarray Sum**
+             Since the array can have negative values the answer will not be the sum of entire array values.The Brute force is to use nested for loops to compare for each subarray then return the maximum sum.This method has a Time Complexity of O(n2).
+             I figured out how simple and optimal(O(n)) is to solve this problem using Kadane's Algorithm. Here, we have to maintain two values, one that contains the current sum obtained so far while traversing the array and the other one to store the maximum of the current sum obtained.If at any point the current sum becomes negative, it is initialized to zero.Finally we return the maximum sum. How this algorithm brings down the Time Complexity is quite appreciating.
+             
+**Link(s) to work**
+1. [Maximum Subarray Sum](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day3.cpp)
+             
