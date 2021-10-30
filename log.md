@@ -33,4 +33,17 @@
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1454141348043317252)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day3-100daysofcode-arrays-activity-6859904690054922240-6hHp)
+
+### Day 4: October 30, Saturday
+
+**Today's Progress**: Problems: 1. **Maximum Product Subarray**
+                                   Brute force is to check for each subarray and return the maximum product.This problem is similar to Maximum Sum Subarray(day2),with the difference that maximum product can also be obtained by current minimum multiplied by the array element since two negative numbers multiply to give a positive number.
+So,we maintain a current max,current min and maximum then traverse the array and change their values accordingly.
+2. **Triplet sum in an array** : The method to solve this problem in O(n) time Complexity is by using three pointers concept.Sort the array and place three pointers one at start,other one position ahead of first pointer and the third one at end position, then find out the sum of values pointed by these pointers if it is equal return else if value is less than the key that means some value must be reduced so that sum becomes equal since array is sorted third pointer is decremented and same goes for sum greater than key.
+             
+**Link(s) to work**
+1. [Maximum Product Subarray](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day4_a.cpp)
+2. [Triplet sum in an array](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day4_b.cpp)\
+[Post on twitter]()\
+[Post on LinkedIn]()
              
