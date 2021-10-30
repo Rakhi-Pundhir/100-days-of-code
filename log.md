@@ -44,6 +44,8 @@ So,we maintain a current max,current min and maximum then traverse the array and
 **Link(s) to work**
 1. [Maximum Product Subarray](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day4_a.cpp)
 2. [Triplet sum in an array](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day4_b.cpp)\
-[Post on twitter]()\
-[Post on LinkedIn]()
+
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1454503615062687745)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day4-100daysofcode-100daysofdsa-activity-6860268067155529728-yij6)
              
