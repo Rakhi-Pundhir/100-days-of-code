@@ -48,4 +48,15 @@ So,we maintain a current max,current min and maximum then traverse the array and
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1454503615062687745)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day4-100daysofcode-100daysofdsa-activity-6860268067155529728-yij6)
+
+### Day 5: October 31, Sunday
+
+**Today's Progress**: Problem : **Trapping Rain Water**
+                               This is one of the most important problems of dsa.It can be solved in O(n) time complexity and O(n) space complexity using two auxiliary arrays -                      left and right.Water can be stored at any position only if there is a tower of greater height to its left as well as to its right.So, we maintain left array to store maximum height to left of any position and right array to store maximum height to right of any position.Then,amount of water stored at any index will be minimum of left height and right height at that index.Since tower at any index will also cover some space so we have to subtract height at that index from the minimum value.
+             
+**Link(s) to work**
+1. [Maximum Subarray Sum](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day5.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1454141348043317252)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day3-100daysofcode-arrays-activity-6859904690054922240-6hHp)
              
