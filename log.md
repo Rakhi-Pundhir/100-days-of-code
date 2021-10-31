@@ -57,6 +57,6 @@ So,we maintain a current max,current min and maximum then traverse the array and
 **Link(s) to work**
 1. [Maximum Subarray Sum](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day5.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1454141348043317252)\
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1454871631168294914)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day5-100daysofcode-100daysofdsa-activity-6860636142484770816-jQBJ)
              
