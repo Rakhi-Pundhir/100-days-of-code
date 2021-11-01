@@ -13,7 +13,7 @@
 
 ### Day 2: October 28, Thursday
 
-**Today's Progress**: Problem Statement : **Given two sorted arrays, merge them into one sorted array in constant space**\
+**Today's Progress**: Problem Statement : [Given two sorted arrays, merge them into one sorted array in constant space](https://leetcode.com/problems/merge-sorted-array/)
                       At first, I couldn't find a method to solve this in O(1) space but later resolved it and realized that whenever we need to solve a task in *constant space* or *optimal time* we can make use of pointers.here, we are taking **three pointers** one at end of first array, the other at end of second array and the third one at the end of total size of first array.Then we start comparing values pointed by the first two pointers and the greater one is placed at the position pointed by the third pointer.At last we come to the beginning of the array which is sorted.
                                                               
 **Link(s) to work**
@@ -36,10 +36,10 @@
 
 ### Day 4: October 30, Saturday
 
-**Today's Progress**: Problems: 1. **Maximum Product Subarray**
+**Today's Progress**: Problems: 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-subarray/)
                                    Brute force is to check for each subarray and return the maximum product.This problem is similar to Maximum Sum Subarray(day2),with the difference that maximum product can also be obtained by current minimum multiplied by the array element since two negative numbers multiply to give a positive number.
 So,we maintain a current max,current min and maximum then traverse the array and change their values accordingly.
-2. **Triplet sum in an array** : The method to solve this problem in O(n) time Complexity is by using three pointers concept.Sort the array and place three pointers one at start,other one position ahead of first pointer and the third one at end position, then find out the sum of values pointed by these pointers if it is equal return else if value is less than the key that means some value must be reduced so that sum becomes equal since array is sorted third pointer is decremented and same goes for sum greater than key.
+2. [Triplet sum in an array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1#) : The method to solve this problem in O(n) time Complexity is by using three pointers concept.Sort the array and place three pointers one at start,other one position ahead of first pointer and the third one at end position, then find out the sum of values pointed by these pointers if it is equal return else if value is less than the key that means some value must be reduced so that sum becomes equal since array is sorted third pointer is decremented and same goes for sum greater than key.
              
 **Link(s) to work**
 1. [Maximum Product Subarray](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day4_a.cpp)
@@ -51,11 +51,22 @@ So,we maintain a current max,current min and maximum then traverse the array and
 
 ### Day 5: October 31, Sunday
 
-**Today's Progress**: Problem : **Trapping Rain Water**
+**Today's Progress**: Problem : [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
                                This is one of the most important problems of dsa.It can be solved in O(n) time complexity and O(n) space complexity using two auxiliary arrays -                      left and right.Water can be stored at any position only if there is a tower of greater height to its left as well as to its right.So, we maintain left array to store maximum height to left of any position and right array to store maximum height to right of any position.Then,amount of water stored at any index will be minimum of left height and right height at that index.Since tower at any index will also cover some space so we have to subtract height at that index from the minimum value.
              
 **Link(s) to work**
-1. [Maximum Subarray Sum](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day5.cpp)
+1. [Trapping Rain /water](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day5.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1454871631168294914)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day5-100daysofcode-100daysofdsa-activity-6860636142484770816-jQBJ)
+
+### Day 6: November 1, Monday
+
+**Today's Progress**: Problem : [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+                              To solve this problem we have to maintain two pointers one that traverses the array and compares the start time of any interval with the end time                                 of previous interval,if it is less, then swap that with the value pointed by the first pointer else increment the first pointer.
+             
+**Link(s) to work**
+1. [Merge Intervals](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day6.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1454871631168294914)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day5-100daysofcode-100daysofdsa-activity-6860636142484770816-jQBJ)
