@@ -70,4 +70,17 @@ So,we maintain a current max,current min and maximum then traverse the array and
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1455224568793079811)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day6-100daysofcode-100daysofcodechallenge-activity-6860988895635632128-AaVS)
+
+### Day 7: November 2, Tuesday
+
+**Today's Progress**: Problem : [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+                              To solve this problem we have to traverse the array once and find the minimum day to buy a stock then check for a day so that the profit obtained                                 is maximum.We will maintain a min variable to store minimum value day if a day is greater than this min variable implies that we can now look for a day to sell stocks so we calculate the profit and store it to compare it further.
+             
+**Link(s) to work**
+1. [Best Time to Buy and Sell Stock](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day7.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1455224568793079811)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day6-100daysofcode-100daysofcodechallenge-activity-6860988895635632128-AaVS)
+
+
              
