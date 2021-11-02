@@ -79,8 +79,8 @@ So,we maintain a current max,current min and maximum then traverse the array and
 **Link(s) to work**
 1. [Best Time to Buy and Sell Stock](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day7.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1455224568793079811)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day6-100daysofcode-100daysofcodechallenge-activity-6860988895635632128-AaVS)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1455596285457666049)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day7-100daysofcode-100daysofcodechallenge-activity-6861361156280459264-MZc1)
 
 
              
