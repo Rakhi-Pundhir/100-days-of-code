@@ -82,5 +82,16 @@ So,we maintain a current max,current min and maximum then traverse the array and
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1455596285457666049)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day7-100daysofcode-100daysofcodechallenge-activity-6861361156280459264-MZc1)
 
+### Day 8: November 3, Wednesday
+
+**Today's Progress**: Problem : [Median of two sorted arrays of different size](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+                                An optimal approach to solve this problem is to merge both the arrays into the first arrays (so that no extra space is used) and then calculate for the median. To calculate for median-(if size of array(n) is an odd number) median=(n+1)/2 th element of array, and (if the size of array(n) is an even number) median =average of ((n/2)th array element and (n/2+1)th array element). So, this problem included math and merging two sorted arrays into one sorted array without using any extra space.
+             
+**Link(s) to work**
+1. [Median of two sorted arrays of different size](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day8.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1455596285457666049)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day7-100daysofcode-100daysofcodechallenge-activity-6861361156280459264-MZc1)
+
 
              
