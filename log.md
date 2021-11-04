@@ -93,5 +93,16 @@ So,we maintain a current max,current min and maximum then traverse the array and
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1455928286144393222)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day8-100daysofcode-100daysofcodechallenge-activity-6861694973352538112-do6F)
 
+### Day 9: November 4, Thursday
+
+**Today's Progress**: Problem : [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+                              Question-Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times. I never knew how easily this question could be done using C++ STL(here, maps) all we need to do is create a map and fill in the values with their frequency. Then extract values from map and store those elements in an answer vector whose frequency or count is more than the given ratio(size of given array/k).
+                                              
+**Link(s) to work**
+1. [Majority Element II](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day9.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1455928286144393222)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day8-100daysofcode-100daysofcodechallenge-activity-6861694973352538112-do6F)
+
 
              
