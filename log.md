@@ -112,8 +112,8 @@ So,we maintain a current max,current min and maximum then traverse the array and
 **Link(s) to work**
 1. [Factorial of Large Number](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day10.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1456310014251921409)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day9-100daysofcode-100daysofdsa-activity-6862075019711905792-sdD7)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1456685105049575425)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day10-100daysofcode-100daysofdsa-activity-6862450041106366464-fThe)
 
 
              
