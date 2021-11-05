@@ -104,5 +104,16 @@ So,we maintain a current max,current min and maximum then traverse the array and
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1456310014251921409)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day9-100daysofcode-100daysofdsa-activity-6862075019711905792-sdD7)
 
+### Day 10: November 5, Friday
+
+**Today's Progress**: Problem : [Factorial of Large Number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
+.                               To store large factorials int cannot be used so we take a vector/array to store digits of factorial,initialize it with 1 and using basic math we multiply i (from 2 till the given number) with each digit of the factorial obtained so far taking care of the carry generated. The fact is that these digits will be stored in reverse order and finally we return the reverse of the array.In Java we can use Big Integer for storing large factorials.Here, we could also use linked list.
+                                              
+**Link(s) to work**
+1. [Factorial of Large Number](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day10.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1456310014251921409)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day9-100daysofcode-100daysofdsa-activity-6862075019711905792-sdD7)
+
 
              
