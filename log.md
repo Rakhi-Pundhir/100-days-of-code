@@ -115,5 +115,16 @@ So,we maintain a current max,current min and maximum then traverse the array and
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1456685105049575425)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day10-100daysofcode-100daysofdsa-activity-6862450041106366464-fThe)
 
+### Day 11: November 6, Saturday
+
+**Today's Progress**: Problem : [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+.                              We have to return elements of a matrix in spiral form and for this we need to take four pointers for row start,row end,column start and column end each. Then start traversing the array starting with the first row and pushing elements from column start to column end into an answer vector. Now, we have to traverse the last column(to maintain spiral form) from row start to row end, then the last row from column end to column start and finally the first row starting from row end to row start.We continue this till all elements are printed.One important thing to note here is that we have to update the four pointers after each operation i.e. row start is incremented by one after we have traversed the first row and column end is decremented by one after traversing the last column and so on. 
+                                              
+**Link(s) to work**
+1. [Spiral Matrix](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day11.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1456685105049575425)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day10-100daysofcode-100daysofdsa-activity-6862450041106366464-fThe)
+
 
              
