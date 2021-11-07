@@ -134,8 +134,8 @@ So,we maintain a current max,current min and maximum then traverse the array and
 **Link(s) to work**
 1. [Search a 2D Matrix](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day12.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1457040567330738179)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day11-100daysofcode-100daysofdsa-activity-6862807084292042752-hZLK)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1457399344659791875)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day12-100daysofcode-100daysofdsa-activity-6863165716204531712-KZd1)
 
 
              
