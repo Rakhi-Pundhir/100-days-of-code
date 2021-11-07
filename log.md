@@ -126,5 +126,16 @@ So,we maintain a current max,current min and maximum then traverse the array and
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1457040567330738179)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day11-100daysofcode-100daysofdsa-activity-6862807084292042752-hZLK)
 
+### Day 12: November 7, Sunday
+
+**Today's Progress**: Problem : [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+.                               We have to search for an element in a 2D Matrix in which the elements of each row are sorted and the first integer of each row is greater than the last integer of the previous row. So, we check if our target value is less than the first integer of the current row then it cannot be present in the matrix and if the target value is greater than the last integer of the current row that means it is present in the next row else that target might be present in the current row so we use binary search on the current row(given elements of each row are sorted) if target is found we return true else if not found we return false.
+                                              
+**Link(s) to work**
+1. [Search a 2D Matrix](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day12.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1457040567330738179)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day11-100daysofcode-100daysofdsa-activity-6862807084292042752-hZLK)
+
 
              
