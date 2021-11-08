@@ -145,8 +145,8 @@ So,we maintain a current max,current min and maximum then traverse the array and
 **Link(s) to work**
 [Rotate 2D Matrix by 90 degrees](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day13.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1457399344659791875)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day12-100daysofcode-100daysofdsa-activity-6863165716204531712-KZd1)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1457710850005889030)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day13-100daysofcode-100daysofdsa-activity-6863477323472232448-BEZP)
 
 
              
