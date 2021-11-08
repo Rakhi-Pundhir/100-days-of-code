@@ -142,7 +142,8 @@ So,we maintain a current max,current min and maximum then traverse the array and
 **Today's Progress**: Problem : [Rotate 2D Matrix by 90 degrees](https://leetcode.com/problems/rotate-image/)
 .                               We have to rotate elements of a 2D matrix in-place so, we first transpose the matrix and then reverse elements of each row.To transpose the 2D vector we use two for loops(nested loops) one(i) from 0 to size of matrix -1 and the other loop(j) from 0 to i. Then, swap elements of matrix[i][j] with matrix[j][i]. Finally we reverse elements of each row to get a rotated matrix.
                                               
-**Link(s) to work**[Rotate 2D Matrix by 90 degrees](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day13.cpp)
+**Link(s) to work**
+[Rotate 2D Matrix by 90 degrees](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day13.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1457399344659791875)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day12-100daysofcode-100daysofdsa-activity-6863165716204531712-KZd1)
