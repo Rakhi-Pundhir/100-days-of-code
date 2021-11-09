@@ -148,5 +148,17 @@ So,we maintain a current max,current min and maximum then traverse the array and
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1457710850005889030)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day13-100daysofcode-100daysofdsa-activity-6863477323472232448-BEZP)
 
+### Day 14: November 9, Tuesday
+
+**Today's Progress**: Problem : [Count triplets with sum less than given sum](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1)
+.                               Given an array count number of triplets having sum smaller than the given sum. The idea is to sort the given array and use three pointers approach for searching the triplets.Start traversing the array and find out the sum of the values pointed by the three pointers. If the sum is lgreater or equal to the given value decrement the pointer at the end by one(to make sum value smaller as array is sorted) else increment count and second pointer,also, we have to increment count by (k-j)
+till the sum value is smaller than the given sum.
+                                              
+**Link(s) to work**
+[Count triplets with sum less than given sum](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day14.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1457710850005889030)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day13-100daysofcode-100daysofdsa-activity-6863477323472232448-BEZP)
+
 
              
