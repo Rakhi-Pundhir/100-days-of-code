@@ -168,8 +168,8 @@ till the sum value is smaller than the given sum.
 **Link(s) to work**
 [Reverse Linked List](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day15.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1458036917379874824)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day14-100daysofcode-100daysofdsa-activity-6863803016231960576-ruhB)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1458467024313540611)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day15-100daysofcode-100daysofdsa-activity-6864233490024673280-YY7s)
 
 
              
