@@ -160,5 +160,16 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1458036917379874824)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day14-100daysofcode-100daysofdsa-activity-6863803016231960576-ruhB)
 
+### Day 15: November 10, Wednesday
+
+**Today's Progress**: Problem : [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+                             Given the head of a singly linked list we have to return the list after reversing it.A reversed linked list means that the head will point to the last node of the original list and the next field of every node will contain address of the previous node so that we can traverse the list in reverse order.So,for this we use three pointers-one that will traverse the list in the forward direction(nextnode), second to store address of previous node so that we can assign it to the current node and the third one will point to the current node on which we have to perform reverse operation.We will then traverse the complete list and update these pointers accordingly.
+                                              
+**Link(s) to work**
+[Reverse Linked List](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day15.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1458036917379874824)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day14-100daysofcode-100daysofdsa-activity-6863803016231960576-ruhB)
+
 
              
