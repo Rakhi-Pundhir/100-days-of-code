@@ -171,5 +171,16 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1458467024313540611)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day15-100daysofcode-100daysofdsa-activity-6864233490024673280-YY7s)
 
+### Day 16: November 11, Thursday
+
+**Today's Progress**: Problem : [Detect cycle in Linked List](https://leetcode.com/problems/linked-list-cycle/)
+                                Given the head of a linked list, determine if the linked list has a cycle in it.A linked list has cycle if next field of two nodes point to the same node and we can detect this cycle or loop by using hare and tortoise algorithm.We take two pointers fast(hare) and slow(tortoise) pointing to the haed node of the linled list.Then we move both the pointers slow moves by one step and fast moves by two steps and we continue this fast and slow points to the same node or else we have traversed the complete list.
+                                              
+**Link(s) to work**
+[Detect cycle in Linked List](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day16.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1458467024313540611)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day15-100daysofcode-100daysofdsa-activity-6864233490024673280-YY7s)
+
 
              
