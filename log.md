@@ -179,8 +179,8 @@ till the sum value is smaller than the given sum.
 **Link(s) to work**
 [Detect cycle in Linked List](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day16.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1458467024313540611)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day15-100daysofcode-100daysofdsa-activity-6864233490024673280-YY7s)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1458812618370551813)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day16-100daysofcode-womenwhocode-activity-6864576490684719104-6iAV)
 
 
              
