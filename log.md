@@ -184,7 +184,7 @@ till the sum value is smaller than the given sum.
 
 ### Day 17: November 12, Friday
 
-**Today's Progress**: Problem : [Find loop node in Linked List](https://leetcode.com/problems/linked-list-cycle-ii/submissions/)
+**Today's Progress**: Problem : [Find loop node in Linked List](https://leetcode.com/problems/linked-list-cycle-ii/)
                                 Given the head of a linked list find the node where the cycle or loop starts in the list,if present.We use the idea to detect cycle in a list i.e. by using hare and tortoise algorithm,if there is a cycle in the list,fast and slow pointers would point to the same node at that point we move one of the two pointers to head node and again run a loop and this time both the pointers move by one step and we end the loop when we reach a common node that is pointed by both the pointers-fast and slow and return that common node.
                                               
 **Link(s) to work**
@@ -201,8 +201,8 @@ till the sum value is smaller than the given sum.
 **Link(s) to work**
 [Remove duplicates from sorted linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day18.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1459191680834310152)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day17-100daysofcode-100daysofdsa-activity-6864956461315952640-w2mv)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1459584553320730628)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day18-100daysofcode-100daysofdsa-activity-6865350777075048448-Ysn4)
 
 
              
