@@ -193,5 +193,16 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1459191680834310152)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day17-100daysofcode-100daysofdsa-activity-6864956461315952640-w2mv)
 
+### Day 18: November 13, Saturday
+
+**Today's Progress**: Problem : [Remove duplicates from sorted linked list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+                                Given the head of a sorted linked list remove all duplicate lements and return the sorted list. So, for this we maintain two pointers one for the current node and the other that traverses the list and then compare values pointed by both the nodes.If equal then the address or next field of the current node should point to the address field of nextnode's address so that the duplicated value is removed and incase the values are not equal we simply move the two pointers.
+                                              
+**Link(s) to work**
+[Remove duplicates from sorted linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day18.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1459191680834310152)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day17-100daysofcode-100daysofdsa-activity-6864956461315952640-w2mv)
+
 
              
