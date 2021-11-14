@@ -204,5 +204,16 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1459584553320730628)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day18-100daysofcode-100daysofdsa-activity-6865350777075048448-Ysn4)
 
+### Day 19: November 14, Sunday
+ 
+**Today's Progress**: Problem : [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1#)
+                                Given the head of an unsorted linked list we have to return the list after removing the duplicate elements.This problem is very easy if you try  solving it using sets of C++ STL.I have used an unordered set here to compare for duplicated elements since a set can only have unique elements.So,we maintain two pointers one that traverses the list and check for duplicate elements and the other to maintain the list with only unique elements.
+                                              
+**Link(s) to work**
+[Remove duplicates from sorted linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day19.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1459584553320730628)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day18-100daysofcode-100daysofdsa-activity-6865350777075048448-Ysn4)
+
 
              
