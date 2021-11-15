@@ -215,5 +215,17 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1459943649890869248)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day19-100daysofcode-100daysofdsa-activity-6865709946336608256-uT65)
 
+### Day 20: November 15, Monday
+ 
+**Today's Progress**: Problem : [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/)
+                                Given the head of a singly linked list, return the middle node of the linked list.If there are two middle nodes, return the second middle node.
+                                This is quite simple just use fast and slow pointers method.The fast and slow pointers initially point to the head node of the linked list.Then, move slow by one step forward and fast by two steps forward and when fast pointer reaches the end of the linked list our slow pointer would be right at the middle element of that linked list.In case head node is NULL i.e. the list is empty or if it contains only one node then simply return the head pointer. 
+                                              
+**Link(s) to work**
+[Middle of the linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day20.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1459943649890869248)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day19-100daysofcode-100daysofdsa-activity-6865709946336608256-uT65)
+
 
              
