@@ -224,8 +224,8 @@ till the sum value is smaller than the given sum.
 **Link(s) to work**
 [Middle of the linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day20.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1459943649890869248)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day19-100daysofcode-100daysofdsa-activity-6865709946336608256-uT65)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1460306036389072896)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day20-100daysofcode-100daysofdsa-activity-6866072163519225857-Zwep)
 
 
              
