@@ -227,5 +227,16 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1460306036389072896)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day20-100daysofcode-100daysofdsa-activity-6866072163519225857-Zwep)
 
+### Day 21: November 16, Tuesday
+ 
+**Today's Progress**: Problem : [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1#)
+                                Given a linked list consisting of L nodes and given a number N. The task is to find the Nth node from the end of the linked list.Since there is no previous address field in a singly linked list we have to find the node from the front of the linked list instead of finding it from the end of the list.For this, we have to calculate the length of the linked list using a counter varible and increment it as we traverse the list.Then taking the difference of length of list and position of node we can find out the node.
+                                              
+**Link(s) to work**
+[Nth node from end of linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day21.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1460306036389072896)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day20-100daysofcode-100daysofdsa-activity-6866072163519225857-Zwep)
+
 
              
