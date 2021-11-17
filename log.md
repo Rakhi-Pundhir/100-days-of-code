@@ -238,5 +238,16 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1460670877469528066)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day21-100daysofcode-100daysofdsa-activity-6866437230441967616-Bud7)
 
+### Day 22: November 17, Wednesday
+ 
+**Today's Progress**: Problem : [Reverse a doubly linked list](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
+                                Given a doubly linked list of n elements. The task is to reverse the doubly linked list.The idea is to simply reverse the address fields of every node i.e. we have to swap previous and next fields so as to get a reversed list since a doubly linked list also has access to the previous node.Also,we have to traverse the list using the updated previous field of the node which now contains the addresss to the next node of the list.
+                                              
+**Link(s) to work**
+[Reverse a doubly linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day22.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1460670877469528066)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day21-100daysofcode-100daysofdsa-activity-6866437230441967616-Bud7)
+
 
              
