@@ -249,5 +249,16 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1461028946502320141)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day22-100daysofcode-100daysofdsa-activity-6866795258974470144-cpo3)
 
+### Day 23: November 18, Thursday
+ 
+**Today's Progress**: Problem : [Check for circular linked list](https://practice.geeksforgeeks.org/problems/circular-linked-list/1#)
+                                Problem Statement : Given head, the head of a singly linked list, find if the linked list is circular or not. A linked list is called circular if it not NULL terminated and all nodes are connected in the form of a cycle. An empty linked list is considered as circular.If there is a circular linked list the last node would point to the head node so we simply have to traverse the list until head becomes equal to temp(pointer used to traverse the list) and incase NULL is encountered at any point that would mean the linked list is not circular.
+                                              
+**Link(s) to work**
+[Check for circular linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day23.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1461028946502320141)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day22-100daysofcode-100daysofdsa-activity-6866795258974470144-cpo3)
+
 
              
