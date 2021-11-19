@@ -260,5 +260,16 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1461382470910177284)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day23-100daysofcode-womenwhocode-activity-6867147381142622208-ihbA)
 
+### Day 24: November 19, Friday
+ 
+**Today's Progress**: Problem : [Intersection point of two linked list](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+                                Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.The idea is to traverse both the list until we reach a common node or else return null if any of the list terminates(case when there is no intersection) but to compare we have to start traversing the lists from same length.For this we calculate the difference between lengths of both the lists and then traverse the longer list first until the difference becomes zero, at this point we can start traversing both the lists together and compare for a common node.
+                                              
+**Link(s) to work**
+[Intersection point of two linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day24.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1461382470910177284)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day23-100daysofcode-womenwhocode-activity-6867147381142622208-ihbA)
+
 
              
