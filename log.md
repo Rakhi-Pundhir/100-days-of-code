@@ -279,8 +279,8 @@ till the sum value is smaller than the given sum.
 **Link(s) to work**
 [check if linked lsit is palindrome](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day25.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1461748678780018689)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day24-100daysofcode-womenintech-activity-6867514948818493440-CKYG)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1462428897987874820)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day25-100daysofcode-100daysofdsa-activity-6868195228218720256-1-93)
 
 
              
