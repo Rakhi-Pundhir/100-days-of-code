@@ -271,5 +271,16 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1461748678780018689)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day24-100daysofcode-womenintech-activity-6867514948818493440-CKYG)
 
+### Day 25: November 21, Sunday
+ 
+**Today's Progress**: Problem : [Check if linked list is palindrome](https://leetcode.com/problems/palindrome-linked-list/)
+                                Given the head of a singly linked list, return true if it is a palindrome.Not making this too complicated but we can use recursion to traverse the linked list in back direction since a singly linked list has only a next address field.Then, we simply compare the values from start with that of end and move start pointer by one using next field and end pointer by one step backwards using recursion.If at any point (before we have reached NULL) the values are not equal we return false.
+                                              
+**Link(s) to work**
+[check if linked lsit is palindrome](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day25.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1461748678780018689)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day24-100daysofcode-womenintech-activity-6867514948818493440-CKYG)
+
 
              
