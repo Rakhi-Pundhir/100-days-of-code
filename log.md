@@ -283,4 +283,16 @@ till the sum value is smaller than the given sum.
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day25-100daysofcode-100daysofdsa-activity-6868195228218720256-1-93)
 
 
+### Day 26: November 22, Monday
+ 
+**Today's Progress**: Problem : [Sort linked list of 0,1 and 2](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1#)
+                                Given a linked list of N nodes where nodes can contain values 0s, 1s, and 2s only.The task is to segregate 0s, 1s, and 2s linked list such that all zeros segregate to head side, 2s at the end of the linked list, and 1s in the mid of 0s and 2s.The idea is to store count of all 0's,1's and 2's in an array and then traverse the list and overwrite the values with 0's first till its count becomes zero in the array and same operation for 1's and 2's.
+                                              
+**Link(s) to work**
+[Sort linked list of 0,1 and 2](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day26.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1462428897987874820)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day25-100daysofcode-100daysofdsa-activity-6868195228218720256-1-93)
+
+
              
