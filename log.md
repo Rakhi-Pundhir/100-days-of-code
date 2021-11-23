@@ -308,8 +308,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Flatten linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day27.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1462834915255357451)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day26-100daysofcode-100daysofdsa-activity-6868599863781789696-eR2z)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1463206104221900805)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day27-100daysofcode-100daysofdsa-activity-6868971115105153024-0ah8)
 
 
              
