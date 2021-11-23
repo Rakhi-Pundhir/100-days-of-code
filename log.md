@@ -294,5 +294,22 @@ till the sum value is smaller than the given sum.
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1462834915255357451)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day26-100daysofcode-100daysofdsa-activity-6868599863781789696-eR2z)
 
+### Day 27: November 23, Tuesday
+ 
+**Today's Progress**: Problem : [Flatten linked list](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+                                Given a Linked List of size N, where every node represents a sub-linked-list and contains two pointers:
+(i) a next pointer to the next node,
+(ii) a bottom pointer to a linked list where this node is head.
+Each of the sub-linked-list is in sorted order.
+Flatten the Link List such that all the nodes appear in a single level while maintaining the sorted order. 
+Note: The flattened list will be printed using the bottom pointer instead of next pointer.
+This problem is divided into sub problems to merge two sorted linked list where first list is pointed by the head pointer and another by head->next pointer.Since we have to merge two lists starting from the end we use recursion to reach the end and then keep on merging the lists till we get one sorted list.For that we take a dummy node and pointers to the lists and this node then, we traverse both the lists and compare the values just as we had done for merging sorted lists.
+                                              
+**Link(s) to work**
+[Flatten linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day27.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1462834915255357451)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day26-100daysofcode-100daysofdsa-activity-6868599863781789696-eR2z)
+
 
              
