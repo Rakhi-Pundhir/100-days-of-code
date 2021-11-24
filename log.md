@@ -311,5 +311,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1463206104221900805)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day27-100daysofcode-100daysofdsa-activity-6868971115105153024-0ah8)
 
+### Day 28: November 24, Wednesday
+ 
+**Today's Progress**: Problem : [Merge sort for linked list](https://leetcode.com/problems/sort-list/)
+                                Given the head of a linked list, return the list after sorting it in ascending order.Merge sort for linked list is similar to merge sort for arrays.So,first we find mid of the list using slow and fast pointers then divide the list into two lists partitioning from the mid and then passing these lists to the merge function.Here, in the merge function the lists are compared for values and merged into one sorted list just as we do for merging of two sorted linked lists.
+                                              
+**Link(s) to work**
+[Merge sort for linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day28.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1463206104221900805)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day27-100daysofcode-100daysofdsa-activity-6868971115105153024-0ah8)
+
 
              
