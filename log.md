@@ -330,8 +330,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Add two linked lists](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day29.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1463537555802972163)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day28-100daysofcode-100daysofdsa-activity-6869302563150409728-wYdD)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1463926067010277382)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day29-100daysofcode-100daysofdsa-activity-6869692025265098752-Gswb)
 
 
              
