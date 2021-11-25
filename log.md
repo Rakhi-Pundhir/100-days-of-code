@@ -322,5 +322,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1463537555802972163)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day28-100daysofcode-100daysofdsa-activity-6869302563150409728-wYdD)
 
+### Day 29: November 25, Thursday
+ 
+**Today's Progress**: Problem : [Add two linked lists](https://leetcode.com/problems/add-two-numbers/)
+                                You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.Take a dummy node and keep adding to it the nodes containing the sum which is actually mod of the sum also add carry to the sum which is division of the sum.
+                                              
+**Link(s) to work**
+[Add two linked lists](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day29.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1463537555802972163)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day28-100daysofcode-100daysofdsa-activity-6869302563150409728-wYdD)
+
 
              
