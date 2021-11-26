@@ -342,8 +342,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Reverse linked list in groups of k](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day30.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1463926067010277382)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day29-100daysofcode-100daysofdsa-activity-6869692025265098752-Gswb)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1464289452386250754)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day30-100daysofcode-freecode-activity-6870055545064321024-bN7J)
 
 
              
