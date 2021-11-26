@@ -334,4 +334,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day29-100daysofcode-100daysofdsa-activity-6869692025265098752-Gswb)
 
 
+### Day 30: November 26, Wednesday
+ 
+**Today's Progress**: Problem : [Reverse linked list in groups of k](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1#)
+                                Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list. If the number of nodes is not a multiple of k then left-out nodes, in the end, should be considered as a group and must be reversed.This is similar to reversing linked list but here maintain a counter varible to count k groups.After reversing these k groups repeat this process till the end of the list and to continue this compare value of nextnode for NULL if nodes are left call this reverse function recursively.
+                                              
+**Link(s) to work**
+[Reverse linked list in groups of k](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day30.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1463926067010277382)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day29-100daysofcode-100daysofdsa-activity-6869692025265098752-Gswb)
+
+
              
