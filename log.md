@@ -353,8 +353,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Maximum depth of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day31.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1464289452386250754)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day30-100daysofcode-freecode-activity-6870055545064321024-bN7J)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1465009384048660483)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day31-100daysofcode-womenintech-activity-6870775427267465216-czWY)
 
 
              
