@@ -334,13 +334,24 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day29-100daysofcode-100daysofdsa-activity-6869692025265098752-Gswb)
 
 
-### Day 30: November 26, Wednesday
+### Day 30: November 26, Friday
  
 **Today's Progress**: Problem : [Reverse linked list in groups of k](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1#)
                                 Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list. If the number of nodes is not a multiple of k then left-out nodes, in the end, should be considered as a group and must be reversed.This is similar to reversing linked list but here maintain a counter varible to count k groups.After reversing these k groups repeat this process till the end of the list and to continue this compare value of nextnode for NULL if nodes are left call this reverse function recursively.
                                               
 **Link(s) to work**
 [Reverse linked list in groups of k](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day30.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1464289452386250754)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day30-100daysofcode-freecode-activity-6870055545064321024-bN7J)
+
+### Day 31: November 28, Sunday
+ 
+**Today's Progress**: Problem : [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+                                Given the root of a binary tree, return its maximum depth.A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.Maximum depth is actually the height of the binary tree.To find this calculate height of left subtree and right subtree of the binary tree and take maximum of the two plus one (for the root node),this gives you the height or maximum depth of the binary tree.
+                                              
+**Link(s) to work**
+[Maximum depth of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day31.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1464289452386250754)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day30-100daysofcode-freecode-activity-6870055545064321024-bN7J)
