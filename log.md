@@ -356,5 +356,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1465009384048660483)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day31-100daysofcode-womenintech-activity-6870775427267465216-czWY)
 
+### Day 32: November 29, Monday
+ 
+**Today's Progress**: Problem : [Inorder traversal of binary tree](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+                                Given the root of a binary tree, return the inorder traversal of its nodes' values.In Inorder traversal we first print the left subtree nodes then the root vale and at last the right subtree nodes.So,for this we recursively call the inorder function and traverse left subtree storing its values in a vector and the the right subtree storing its values also in the vector.
+                                              
+**Link(s) to work**
+[Inorder traversal of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day32.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1465009384048660483)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day31-100daysofcode-womenintech-activity-6870775427267465216-czWY)
+
 
              
