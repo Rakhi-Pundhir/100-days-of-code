@@ -375,8 +375,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Balanced binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day33.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1465385333797785600)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day32-100daysofcode-100daysofdsa-activity-6871151358410682368-uXAG)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1465736623388119041)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day33-100daysofcode-womenintech-activity-6871502540828241922-qhsu)
 
 
              
