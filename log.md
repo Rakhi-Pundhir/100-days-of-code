@@ -367,5 +367,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1465385333797785600)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day32-100daysofcode-100daysofdsa-activity-6871151358410682368-uXAG)
 
+### Day 33: November 30, Tuesday
+ 
+**Today's Progress**: Problem : [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/)
+                                Given a binary tree, determine if it is height-balanced.For this problem, a height-balanced binary tree is defined as:a binary tree in which the left and right subtrees of every node differ in height by no more than 1.The idea is to calculate height for left and right subtrees then find their difference if it is less than or equal to 1 return true else return false.
+                                              
+**Link(s) to work**
+[Balanced binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day33.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1465385333797785600)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day32-100daysofcode-100daysofdsa-activity-6871151358410682368-uXAG)
+
 
              
