@@ -378,5 +378,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1465736623388119041)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day33-100daysofcode-womenintech-activity-6871502540828241922-qhsu)
 
+### Day 34: December 01, Wednesday
+ 
+**Today's Progress**: Problem : [Level order traversal binary tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+                                Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).To solve this problem we use queue data structure and insert root node in it.Now we can start the logic to print nodes level by level.We continue the following task until the queue becomes empty.We extract element at the front of the queue and print it then pop it from the queue.Also, we check for each printed node if it has left and right child and insert them into the queue. 
+                                              
+**Link(s) to work**
+[Level order traversal binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day34.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1465736623388119041)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day33-100daysofcode-womenintech-activity-6871502540828241922-qhsu)
+
 
              
