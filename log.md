@@ -398,8 +398,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Bottom up traversal binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day35.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1466069471831887873)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day34-100daysofcode-freecodecamp-activity-6871834567490322432-KWr8)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1466775851660242946)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day35-100daysofcode-womenintech-activity-6872540721094758400-eVC2)
 
 
              
