@@ -390,4 +390,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day34-100daysofcode-freecodecamp-activity-6871834567490322432-KWr8)
 
 
+### Day 35: December 03, Friday
+ 
+**Today's Progress**: Problem : [Bottom up traversal binary tree](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+                                Given the root of a binary tree, return the bottom-up level order traversal of its nodes' values. (i.e., from left to right, level by level from leaf to root).This is similar to the level order traversal of binary tree.In level order traversal queue was used so here for reverse level order traversal we could've used a stack but the order changes so for that we have to use both queue and stack.Also,first right child will be pushed into the queue and then the left child to maintain the order from left to right as stated in the problem statement.At last we pop all elements of the stack into a vector and return it.
+                                              
+**Link(s) to work**
+[Bottom up traversal binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day35.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1466069471831887873)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day34-100daysofcode-freecodecamp-activity-6871834567490322432-KWr8)
+
+
              
