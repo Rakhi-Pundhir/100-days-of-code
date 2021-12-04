@@ -392,11 +392,11 @@ This problem is divided into sub problems to merge two sorted linked list where 
 
 ### Day 35: December 03, Friday
  
-**Today's Progress**: Problem : [Bottom up traversal binary tree](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
-                                Given the root of a binary tree, return the bottom-up level order traversal of its nodes' values. (i.e., from left to right, level by level from leaf to root).This is similar to the level order traversal of binary tree.In level order traversal queue was used so here for reverse level order traversal we could've used a stack but the order changes so for that we have to use both queue and stack.Also,first right child will be pushed into the queue and then the left child to maintain the order from left to right as stated in the problem statement.At last we pop all elements of the stack into a vector and return it.
+**Today's Progress**: Problem : [Right side view of binary tree](https://leetcode.com/problems/binary-tree-right-side-view/)
+                                Given the root of a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.For the right view of binary tree we use level order traversal.Here, we take a queue and store nodes level wise in the queue.The right most nodes means the nodes that are present at the end of each level or at the end of queue so we push those nodes only into the answer vector.
                                               
 **Link(s) to work**
-[Bottom up traversal binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day35.cpp)
+[Right side view of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day36.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1466775851660242946)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day35-100daysofcode-womenintech-activity-6872540721094758400-eVC2)
