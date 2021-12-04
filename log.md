@@ -398,8 +398,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Right side view of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day36.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1466775851660242946)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day35-100daysofcode-womenintech-activity-6872540721094758400-eVC2)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1467193410306011136)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day36-100daysofcode-100daysofdsa-activity-6872958388926607360-48si)
 
 
              
