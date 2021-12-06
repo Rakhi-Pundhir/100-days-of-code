@@ -431,8 +431,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Invert binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day38.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1467542047552798726)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day37-100daysofcode-womenintech-activity-6873308153971396608--qHf)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1467890255017570305)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day38-100daysofcode-womenwhocode-activity-6873654790195429376-oJdR)
 
 
              
