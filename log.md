@@ -392,14 +392,47 @@ This problem is divided into sub problems to merge two sorted linked list where 
 
 ### Day 35: December 03, Friday
  
-**Today's Progress**: Problem : [Right side view of binary tree](https://leetcode.com/problems/binary-tree-right-side-view/)
-                                Given the root of a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.For the right view of binary tree we use level order traversal.Here, we take a queue and store nodes level wise in the queue.The right most nodes means the nodes that are present at the end of each level or at the end of queue so we push those nodes only into the answer vector.
+**Today's Progress**: Problem : [Bottom up traversal of binary tree](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+                                Bottom up traversal binary tree Given the root of a binary tree, return the bottom-up level order traversal of its nodes' values. (i.e., from left to right, level by level from leaf to root).This is similar to the level order traversal of binary tree.In level order traversal queue was used so here for reverse level order traversal we could've used a stack but the order changes so for that we have to use both queue and stack.Also,first right child will be pushed into the queue and then the left child to maintain the order from left to right as stated in the problem statement.At last we pop all elements of the stack into a vector and return it.
                                               
 **Link(s) to work**
-[Right side view of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day35.cpp)
+[Bottom up traversal of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day35.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1466775851660242946)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day35-100daysofcode-womenintech-activity-6872540721094758400-eVC2)
+
+### Day 36: December 04, Saturday
+ 
+**Today's Progress**: Problem : [Right view of binary tree](https://leetcode.com/problems/binary-tree-right-side-view/)
+                                Given the root of a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.For the right view of binary tree we use level order traversal.Here, we take a queue and store nodes level wise in the queue.The right most nodes means the nodes that are present at the end of each level or at the end of queue so we push those nodes only into the answer vector.
+                                              
+**Link(s) to work**
+[Right side view of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day36.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1467193410306011136)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day36-100daysofcode-100daysofdsa-activity-6872958388926607360-48si)
+
+### Day 37: December 05, Sunday
+ 
+**Today's Progress**: Problem : [Lowest common ancestor of binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+                                The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants. Here, when left and right of root node both are not equal to NULL that is our LCA else we make recursive calls to get that.
+                                              
+**Link(s) to work**
+[Lowest common ancestor of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day37.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1467542047552798726)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day37-100daysofcode-womenintech-activity-6873308153971396608--qHf)
+
+### Day 38: December 06, Monday
+ 
+**Today's Progress**: Problem : [Invert binary tree](https://leetcode.com/problems/invert-binary-tree/)
+                                Given the root of a binary tree, invert the tree, and return its root.Here,we have to convert the given binary tree into a tree that is mirror image of this tree.If we break the problem into subproblems and try to invert only the root node then it is clearly understood that we only have to swap the left and right child nodes of the parent node.So,to invert the complete tree we make recursive calls for left and right subtrees performing the same operation for all subproblems.
+                                              
+**Link(s) to work**
+[Invert binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day38.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1467542047552798726)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day37-100daysofcode-womenintech-activity-6873308153971396608--qHf)
 
 
              
