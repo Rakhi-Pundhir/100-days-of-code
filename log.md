@@ -396,10 +396,10 @@ This problem is divided into sub problems to merge two sorted linked list where 
                                 Given the root of a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.For the right view of binary tree we use level order traversal.Here, we take a queue and store nodes level wise in the queue.The right most nodes means the nodes that are present at the end of each level or at the end of queue so we push those nodes only into the answer vector.
                                               
 **Link(s) to work**
-[Right side view of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day36.cpp)
+[Right side view of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day35.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1467193410306011136)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day36-100daysofcode-100daysofdsa-activity-6872958388926607360-48si)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1466775851660242946)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day35-100daysofcode-womenintech-activity-6872540721094758400-eVC2)
 
 
              
