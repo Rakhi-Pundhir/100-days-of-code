@@ -442,8 +442,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Diameter of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day39.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1467890255017570305)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day38-100daysofcode-womenwhocode-activity-6873654790195429376-oJdR)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1468275414212571139)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day39-100daysofcode-womenintech-activity-6874039695551164416-x7oS)
 
 
              
