@@ -434,5 +434,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1467890255017570305)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day38-100daysofcode-womenwhocode-activity-6873654790195429376-oJdR)
 
+### Day 39: December 07, Tuesday
+ 
+**Today's Progress**: Problem : [Diameter of binary tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+                                Given the root of a binary tree, return the length of the diameter of the tree.Diameter is the longest path between any two leaf nodes in the binary tree.If the diameter passes through root node then length of diameter will be (height of left subtree+height of right subtree+1) one for the root node,this is when the path requires nodes and not edges and incase the diameter does not pass through the root node then, we will take maximum of the left and right diameter.
+                                              
+**Link(s) to work**
+[Diameter of binary tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day39.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1467890255017570305)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day38-100daysofcode-womenwhocode-activity-6873654790195429376-oJdR)
+
 
              
