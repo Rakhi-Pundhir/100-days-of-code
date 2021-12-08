@@ -445,5 +445,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1468275414212571139)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day39-100daysofcode-womenintech-activity-6874039695551164416-x7oS)
 
+### Day 40: December 08, Wednesday
+ 
+**Today's Progress**: Problem : [search in a binary search tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+                                You are given the root of a binary search tree (BST) and an integer val.Find the node in the BST that the node's value equals val and return the subtree rooted with that node. If such a node does not exist, return null.A binary search tree is whose left child node is lesser than root node and right child node is greater than the root node or parent node.So we compare it with the root node if equal we return that node,in case key is greater than root we search for it in the right subtree and if lesser than root we search for it in the left subtree.
+                                              
+**Link(s) to work**
+[Search in a binary search tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day40.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1468275414212571139)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day39-100daysofcode-womenintech-activity-6874039695551164416-x7oS)
+
 
              
