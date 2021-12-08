@@ -453,8 +453,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Search in a binary search tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day40.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1468275414212571139)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day39-100daysofcode-womenintech-activity-6874039695551164416-x7oS)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1468601068091101184)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day40-100daysofcode-freecodecamp-activity-6874365979976171520-a_do)
 
 
              
