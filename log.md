@@ -456,5 +456,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1468601068091101184)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day40-100daysofcode-freecodecamp-activity-6874365979976171520-a_do)
 
+### Day 41: December 09, Thursday
+ 
+**Today's Progress**: Problem : [Delete in a binary search tree](https://leetcode.com/problems/delete-node-in-a-bst/)
+                                Given a root node reference of a BST and a key, delete the node with the given key in the BST.If the node to be deleted is lesser than root node, search for it in the right subtree, and if it is greater, then do the same in left subtree.Now,while deleting any node we have to check for the following three cases-if the node to be deleted is a leaf node then simply delete it, if the node to be deleted has only one child then replace it with that child and delete, and if it has both left and right child then replace the node to be deleted by its inorder successor(which incase of a BST is the last node in the right subtree of that particular node) and also delete the repeated value generated after replacing.
+                                              
+**Link(s) to work**
+[Delete in a binary search tree](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day41.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1468601068091101184)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day40-100daysofcode-freecodecamp-activity-6874365979976171520-a_do)
+
 
              
