@@ -467,5 +467,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1468963151706157067)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day41-100daysofcode-womenintech-activity-6874728018997252096-2Yvw)
 
+### Day 42: December 10, Friday
+ 
+**Today's Progress**: Problem : [Construct binary search tree from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+                                Given an array of integers preorder, which represents the preorder traversal of a BST (i.e., binary search tree), construct the tree and return its root.Start with creating the root node with the first element of array(containing preorder traversal) then we can make recursive calls to the build tree function and insert other nodes maintaining the property of a binary search tree.If the element to be inserted is lesser than root value we call for the function to insert it to the left of root and do same for the right side of root.When there is space(NULL) for inserting the node,create a newnode and assign that value to it and return its address to the parent node. 
+                                              
+**Link(s) to work**
+[Construct binary search tree from preorder traversal](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day42.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1468963151706157067)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day41-100daysofcode-womenintech-activity-6874728018997252096-2Yvw)
+
 
              
