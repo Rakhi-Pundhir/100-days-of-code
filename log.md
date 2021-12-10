@@ -475,8 +475,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Construct binary search tree from preorder traversal](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day42.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1468963151706157067)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day41-100daysofcode-womenintech-activity-6874728018997252096-2Yvw)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1469316019009187840)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day42-100daysofcode-freecodecamp-activity-6875080970232578048-EtTQ)
 
 
              
