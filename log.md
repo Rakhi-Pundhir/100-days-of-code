@@ -486,8 +486,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Reverse a string using Stack](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day43.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1469316019009187840)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day42-100daysofcode-freecodecamp-activity-6875080970232578048-EtTQ)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1469698974462271491)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day43-100daysofcode-freecodecamp-activity-6875464096821612544-o6kr)
 
 
              
