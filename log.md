@@ -478,5 +478,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1469316019009187840)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day42-100daysofcode-freecodecamp-activity-6875080970232578048-EtTQ)
 
+### Day 43: December 11, Saturday
+ 
+**Today's Progress**: Problem : [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1#)
+                                You are given a string S, the task is to reverse the string using stack.Since a stack follows LIFO(Last In First Out) principle,we can use it to reverse a string by storing each character of the string into the stack and then empty the stack so that the last character comes out first.Then store the popped out characters in any string or into the same string starting from the first index and incrementing it gradually. 
+                                              
+**Link(s) to work**
+[Reverse a string using Stack](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day43.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1469316019009187840)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day42-100daysofcode-freecodecamp-activity-6875080970232578048-EtTQ)
+
 
              
