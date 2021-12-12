@@ -490,4 +490,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day43-100daysofcode-freecodecamp-activity-6875464096821612544-o6kr)
 
 
+### Day 44: December 12, Sunday
+ 
+**Today's Progress**: Problem : [Sort a Stack in descending order](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#)
+                                Given a stack, the task is to sort it such that the top of the stack has the greatest element.To sort it in this order all we have to keep in mind is that the top of stack must point to the greatest element.so, for this we first empty the stack and then insert elements into it one by one.If the stack is empty simply push the value onto the stack.Also, if the value to be inserted is greater than the top of stack we can push it onto the stack since in that case our top would have the greatest element only.But in case the value to be added is lesser than the top we have to first pop out hte value and then insert our lower element into the stack and after that only we can now insert the popped element back to the stack and continue this process till all elements have been inserted(recursive calls to all functions are completed).
+                                              
+**Link(s) to work**
+[Sort a Stack in descending order](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day44.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1469698974462271491)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day43-100daysofcode-freecodecamp-activity-6875464096821612544-o6kr)
+
+
              
