@@ -509,8 +509,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [Valid Parentheses](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day45.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1470057626842976257)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day44-100daysofcode-freecodecamp-activity-6875823648536690688--RXo)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1470448941212717056)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day45-100daysofcode-freecodecamp-activity-6876213938376192001-Qaj1)
 
 
              
