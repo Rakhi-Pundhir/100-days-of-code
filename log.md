@@ -501,5 +501,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1470057626842976257)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day44-100daysofcode-freecodecamp-activity-6875823648536690688--RXo)
 
+### Day 45: December 13, Monday
+ 
+**Today's Progress**: Problem : [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+                                Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.An input string is valid if: Open brackets must be closed by the same type of brackets and also,open brackets must be closed in the correct order.So we have to traverse the string and insert each opening bracket into the stack of characters.And if the character is a closed bracket check the top of stack for the same type of open bracket,if so pop it out of stack and continue for other characters of string.If not return false also, in the end if the stack is not empty return false since this means that the number of opening brackets were not equal to the number of closing brackets.
+                                              
+**Link(s) to work**
+[Valid Parentheses](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day45.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1470057626842976257)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day44-100daysofcode-freecodecamp-activity-6875823648536690688--RXo)
+
 
              
