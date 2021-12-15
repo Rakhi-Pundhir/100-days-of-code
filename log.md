@@ -513,4 +513,16 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day45-100daysofcode-freecodecamp-activity-6876213938376192001-Qaj1)
 
 
+### Day 46: December 15, Wednesday
+ 
+**Today's Progress**: Problem : [evaluation of postfix expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1#)
+                                Given string S representing a postfix expression, the task is to evaluate the expression and find the final value. Operators will only include the basic arithmetic operators.Here, we create a stack of integers and insert only digits(0-9) into it while traversing the string.In case the charater is not a digit but is an operator we pop the topmost two numbers of stack and perform arithmetic operations on them based on the oerator and push the result of the operation into the stack and continue this process till we reach end of the given string.At last, the final output will be the value at the top of the stack.
+                                              
+**Link(s) to work**
+[evaluation of postfix expression](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day46.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1470448941212717056)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day45-100daysofcode-freecodecamp-activity-6876213938376192001-Qaj1)
+
+
              
