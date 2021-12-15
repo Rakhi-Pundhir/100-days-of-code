@@ -521,8 +521,8 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [evaluation of postfix expression](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day46.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1470448941212717056)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day45-100daysofcode-freecodecamp-activity-6876213938376192001-Qaj1)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1471162914732085253)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day46-100daysofcode-freecodecamp-activity-6876927580314865665-Efft)
 
 
              
