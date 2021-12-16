@@ -524,5 +524,15 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1471162914732085253)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day46-100daysofcode-freecodecamp-activity-6876927580314865665-Efft)
 
+### Day 47: December 16, Thursday
+ 
+**Today's Progress**: Problem : [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
+                                If you go to a party of N people, find if there is a celebrity in the party or not. A square NxN matrix M[][] is used to represent people at the party such that if an element of row i and column j  is set to 1 it means ith person knows jth person.This is the most interesting problem I have ever solved where a man becomes the celebrity if he does not know anyone and there could be no person who does not know him.So,for this we use a stack to store the index of all people and also the celebrity number.Then pop out two topmost elements of stack and check for two conditions-if i know j then j can be a celebrity so push j into stack or if i does not know j then i could be a celebrity so push i into stack.Repeat this till stack size becomes less than 2,then the stack would contain only one number which maybe the celebrity and to check this one we compare it with each index,incase this person knows someone or there is someone who doesn't know him then he can't be the celebrity else return this person number.
+                                              
+**Link(s) to work**
+[The Celebrity Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day47.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1471162914732085253)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day46-100daysofcode-freecodecamp-activity-6876927580314865665-Efft)
 
              
