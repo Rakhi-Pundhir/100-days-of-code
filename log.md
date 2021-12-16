@@ -532,7 +532,7 @@ This problem is divided into sub problems to merge two sorted linked list where 
 **Link(s) to work**
 [The Celebrity Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day47.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1471162914732085253)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day46-100daysofcode-freecodecamp-activity-6876927580314865665-Efft)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1471528915134922752)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day47-100daysofocde-womenintech-activity-6877295047595855874-bnXa)
 
              
