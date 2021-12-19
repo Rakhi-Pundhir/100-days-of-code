@@ -535,4 +535,19 @@ This problem is divided into sub problems to merge two sorted linked list where 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1471528915134922752)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day47-100daysofocde-womenintech-activity-6877295047595855874-bnXa)
 
+### Day 48: December 19, Sunday
+ 
+**Today's Progress**: Problem : [The Circular Tour](https://practice.geeksforgeeks.org/problems/circular-tour/1#)
+                                Suppose there is a circle. There are N petrol pumps on that circle. You will be given two sets of data.
+1. The amount of petrol that every petrol pump has.
+2. Distance from that petrol pump to the next petrol pump.
+Find a starting point where the truck can start to get through the complete circle without exhausting its petrol in between.For this we have to keep a fuel variable and a required fuel variable to keep track of the amount of fuel needed to go from one station to another.If it is not possible then later we could perform it using existing fuel plus the fuel received at that particular station.
+
+                                              
+**Link(s) to work**
+[The Circular Tour](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day48.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1471528915134922752)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day47-100daysofocde-womenintech-activity-6877295047595855874-bnXa)
+
              
