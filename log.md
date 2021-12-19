@@ -547,7 +547,7 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [The Circular Tour](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day48.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1471528915134922752)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day47-100daysofocde-womenintech-activity-6877295047595855874-bnXa)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1472619666979766276)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day48-100daysofcode-womenintech-activity-6878384804727988224-tzbz)
 
              
