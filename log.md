@@ -550,4 +550,16 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1472619666979766276)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day48-100daysofcode-womenintech-activity-6878384804727988224-tzbz)
 
+### Day 49: December 20, Monday
+ 
+**Today's Progress**: Problem : [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1)
+                                Given a string S consisting only of opening and closing parenthesis 'ie '('  and ')', find out the length of the longest valid(well-formed) parentheses substring.NOTE: Length of the smallest valid substring ( ) is 2.We traverse the string and push each opening bracket into a stack of characters.On encountering any closed bracket first we check if the top of stack is a open bracket if so it would make a pair of a valid substring and so increment the count variable by 2 and pop it from the stack,in all other cases simply move on to the next character of the given string.
+
+                                              
+**Link(s) to work**
+[Valid Substring](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day49.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1472619666979766276)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day48-100daysofcode-womenintech-activity-6878384804727988224-tzbz)
+
              
