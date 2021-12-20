@@ -559,7 +559,7 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Valid Substring](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day49.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1472619666979766276)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day48-100daysofcode-womenintech-activity-6878384804727988224-tzbz)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1472982469561384967)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day49-100daysofcode-freecodecamp-activity-6878747702990036992-xqJ5)
 
              
