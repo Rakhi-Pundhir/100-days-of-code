@@ -562,4 +562,17 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1472982469561384967)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day49-100daysofcode-freecodecamp-activity-6878747702990036992-xqJ5)
 
+
+### Day 50: December 23, Thursday
+ 
+**Today's Progress**: Problem : ##Create graph using adjacency matrix
+                                Input the number of vertices and the number of edges of the graph.Create a 2-D array/matrix and fill in all the values with 0.Then input all edges and fill those indexes with 1 that have an edge in between.If it is an undirected graph value at index [i][j] will be 1 and also value at index [j][i] will be 1 and for a directed graph value at [i][j] only will be 1.Time complexity is v * v where v is the number of vertices in the graph.
+
+                                              
+**Link(s) to work**
+[Create a graph using adjacency matrix](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day50.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1472982469561384967)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day49-100daysofcode-freecodecamp-activity-6878747702990036992-xqJ5)
+
              
