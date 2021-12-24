@@ -575,4 +575,16 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1474006789024731137)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day50-100daysofcode-freecodecamp-activity-6879771681292918784-1yUZ)
 
+### Day 51: December 24, Friday
+ 
+**Today's Progress**: Problem : ##Create graph using adjacency list
+                                Input the number of vertices and the number of edges of the graph.Create an array of vectors.Then input the edges and fill in these edges in their specified vertices.For a directed graph edge is unidirectional and for an undirected graph it is bidirectional.
+
+                                              
+**Link(s) to work**
+[Create a graph using adjacency list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day51.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1474006789024731137)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day50-100daysofcode-freecodecamp-activity-6879771681292918784-1yUZ)
+
              
