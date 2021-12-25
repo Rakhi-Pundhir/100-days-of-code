@@ -587,4 +587,16 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1474418486793306117)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day51-100daysofcode-womenwhocode-activity-6880183776102670336-Ncqc)
 
+### Day 52: December 25, Saturday
+ 
+**Today's Progress**: Problem : ##Detect cycle in a graph
+                                Input the number of vertices and the number of edges.Declare a visited array with initial values as 0 i.e. no node is visited and as we encounter any node we change its visited state from 0 to 1.We start with a source node and visit all its edges.In case any of the node is visted already and also it is not that node's parent that indicated there is a cycle in the graph. 
+
+                                              
+**Link(s) to work**
+[Create a graph using adjacency list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day52.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1474418486793306117)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day51-100daysofcode-womenwhocode-activity-6880183776102670336-Ncqc)
+
              
