@@ -608,7 +608,7 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Create a graph using adjacency list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day52.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1474771591842041858)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day52-100daysofcode-freecodecamp-activity-6880536649038647296-H7QY)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1475514090407673857)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day53-100daysofcode-codingdays-activity-6881278374644355072-ZE9x)
 
              
