@@ -599,4 +599,16 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1474771591842041858)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day52-100daysofcode-freecodecamp-activity-6880536649038647296-H7QY)
 
+### Day 53: December 27, Monday
+ 
+**Today's Progress**: Problem : ##Breadth First Search in a graph
+                                Assign a status 0 to all nodes and push source node into a queue and change its status to 1.Then pop an element from the queue and visit all its neighbours and push only those nodes in the queue with a status equal to 0 and again pop an element from queue, continue this till the destination is reached or when the queue becomes empty.Trace the path that led to the destination node and this will be our shortest path from source to that node.
+
+                                              
+**Link(s) to work**
+[Create a graph using adjacency list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day52.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1474771591842041858)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day52-100daysofcode-freecodecamp-activity-6880536649038647296-H7QY)
+
              
