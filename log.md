@@ -620,7 +620,7 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Depth First Search in a graph](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day54.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1475514090407673857)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day53-100daysofcode-codingdays-activity-6881278374644355072-ZE9x)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1475888013401939969)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day54-100dasyofcode-freecodecamp-activity-6881653140005904384-4rYK)
 
              
