@@ -594,7 +594,7 @@ Find a starting point where the truck can start to get through the complete circ
 
                                               
 **Link(s) to work**
-[Create a graph using adjacency list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day52.cpp)
+[Detect cycle in a graph](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day52.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1474771591842041858)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day52-100daysofcode-freecodecamp-activity-6880536649038647296-H7QY)
@@ -606,7 +606,19 @@ Find a starting point where the truck can start to get through the complete circ
 
                                               
 **Link(s) to work**
-[Create a graph using adjacency list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day52.cpp)
+[Breadth First Search in a graph](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day53.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1475514090407673857)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day53-100daysofcode-codingdays-activity-6881278374644355072-ZE9x)
+
+### Day 54: December 28, Tuesday
+ 
+**Today's Progress**: Problem : ##Depth First Search in a graph
+                                Assign a status 0 to all nodes and push source node into a stack then pop it.Now, this node is processed so change its status to 1 and visit all its neighbours and push those nodes only with status equal to 0.Then again pop an element from stack and repeat this till the stack becomes empty.
+
+                                              
+**Link(s) to work**
+[Depth First Search in a graph](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day54.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1475514090407673857)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day53-100daysofcode-codingdays-activity-6881278374644355072-ZE9x)
