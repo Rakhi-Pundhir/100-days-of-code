@@ -632,8 +632,8 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Floyd Warshall Algorithm](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day55.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1475888013401939969)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day54-100dasyofcode-freecodecamp-activity-6881653140005904384-4rYK)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1476830254626869251)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day55-100daysofcode-freecodecamp-activity-6882595669970837504-o-yt)
 
 
              
