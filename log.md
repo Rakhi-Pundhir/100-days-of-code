@@ -635,5 +635,17 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1476830254626869251)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day55-100daysofcode-freecodecamp-activity-6882595669970837504-o-yt)
 
+### Day 56: January 01, Saturday
+ 
+**Today's Progress**: Problem : ##Detect cycle in undirected graph
+                                We start with traversing the graph and in case a node is already visited earlier and is not the parent then there exits a cycle.
+
+                                              
+**Link(s) to work**
+[Detect cycle in undirected graph](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day56.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1476830254626869251)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day55-100daysofcode-freecodecamp-activity-6882595669970837504-o-yt)
+
 
              
