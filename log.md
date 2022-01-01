@@ -644,8 +644,8 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Detect cycle in undirected graph](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day56.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1476830254626869251)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day55-100daysofcode-freecodecamp-activity-6882595669970837504-o-yt)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1477338942051524609)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day56-100daysofcode-freecodecamp-activity-6883104343042625536-uYPf)
 
 
              
