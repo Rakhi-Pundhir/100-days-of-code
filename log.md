@@ -647,5 +647,17 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1477338942051524609)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day56-100daysofcode-freecodecamp-activity-6883104343042625536-uYPf)
 
+### Day 57: January 02, Sunday
+ 
+**Today's Progress**: Problem : [Count subarrays with product less than k](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/)
+                                 We can use nested loops and form all subarrays then compare which subarray gives product less than k but time complexity would then be n squared so we optimize this using sliding window method.We calculate the product of elements in the window then move the window by one element, if product now becomes equal or greater than k we move the left point of the window and delete its entry by division else we add the number of elements in the answer variable and move the right point of the window.
+
+                                              
+**Link(s) to work**
+[Count subarrays with product less than k](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day57.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1477338942051524609)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day56-100daysofcode-freecodecamp-activity-6883104343042625536-uYPf)
+
 
              
