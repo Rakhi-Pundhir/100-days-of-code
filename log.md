@@ -656,8 +656,8 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Count subarrays with product less than k](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day57.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1477338942051524609)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day56-100daysofcode-freecodecamp-activity-6883104343042625536-uYPf)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1477703491548106753)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day57-100daysofcode-freecodecamp-activity-6883468668206907392-nYIj)
 
 
              
