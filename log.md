@@ -668,8 +668,8 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Number following a pattern](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day58.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1477703491548106753)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day57-100daysofcode-freecodecamp-activity-6883468668206907392-nYIj)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1477925468330348544)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day58-100daysofcode-freecodecamp-activity-6883690674454044672-C7d_)
 
 
              
