@@ -659,5 +659,17 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1477703491548106753)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day57-100daysofcode-freecodecamp-activity-6883468668206907392-nYIj)
 
+### Day 58: January 03, Monday
+ 
+**Today's Progress**: Problem : [Number following a pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)
+                                 We can use stack to solve this problem.Here, we are making splits at each I encountered and then reverse the count for each D.Create a stack of characters and as you traverse the string push a number initialized with 1 into it and increase it by 1 and for each I do the same but also pop all elements from stack and add to the answer string.At last push the number and pop all.
+
+                                              
+**Link(s) to work**
+[Number following a pattern](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day58.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1477703491548106753)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day57-100daysofcode-freecodecamp-activity-6883468668206907392-nYIj)
+
 
              
