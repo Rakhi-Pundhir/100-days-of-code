@@ -672,4 +672,17 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day58-100daysofcode-freecodecamp-activity-6883690674454044672-C7d_)
 
 
+### Day 59: January 04, Tuesday
+ 
+**Today's Progress**: Problem : [Decode the string](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)
+                                 We are using a stack of characters to push each element of string except ']' as on encountering this character we have to start decoding the string.We will pop all characters out of stack until we get an opening bracket and then add the popped characters to an empty string and push it into the stack and then we will use a loop to multiply that string to itself k times.At last we will pop all characters from stack and add them to an empty answer string and then return it.
+
+                                              
+**Link(s) to work**
+[Decode the string](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day59.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1477925468330348544)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day58-100daysofcode-freecodecamp-activity-6883690674454044672-C7d_)
+
+
              
