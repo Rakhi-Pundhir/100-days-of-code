@@ -691,7 +691,7 @@ Find a starting point where the truck can start to get through the complete circ
 
                                               
 **Link(s) to work**
-[Decode the string](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day60.cpp)
+[Program to find Nth Ugly Number](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day60.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1478750722384547840)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day60-100daysofcode-freecodecamp-activity-6884517235948306432-6VXr)
