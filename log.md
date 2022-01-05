@@ -684,5 +684,17 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1478431934032199681)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day59-100daysofcode-freecodecamp-activity-6884197061445591042-hAuv)
 
+### Day 60: January 05, Wednesday
+ 
+**Today's Progress**: Problem : [Program to find Nth Ugly Number](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)
+                                We are using dynamic programming to find an efficient solution for this problem.We keep on storing the ugly numbers in an array by choosing the minimum of three factors that are multiples of 2,3 or 5.Then we increment the pointer which gives the minimum factor to be stored as an ugly number.
+
+                                              
+**Link(s) to work**
+[Decode the string](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day60.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1478431934032199681)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day59-100daysofcode-freecodecamp-activity-6884197061445591042-hAuv)
+
 
              
