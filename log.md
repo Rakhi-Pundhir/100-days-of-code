@@ -697,4 +697,28 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day60-100daysofcode-freecodecamp-activity-6884517235948306432-6VXr)
 
 
+### Day 61: January 06, Thursday
+ 
+**Today's Progress**: Problem : [Sliding Window Maximum](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
+                                We have to just find the maximum of all subarrays here and for that we will use sliding window method.We start with the first index and increment it until we get the size of window given in the question.Till window size is less than k we keep pushing the elements for future use in a queue to get another maximum incase the window slides and earlier maximum element is not included now.So, when the size hits we calculate our maximum present at front and then remove it calculations from queue if this gave the maximum value then we slide the window.Finally, the maximum of all windows will lie on the front of this queue.
+
+                                              
+**Link(s) to work**
+[Sliding Window Maximum ](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day61.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1478750722384547840)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day60-100daysofcode-freecodecamp-activity-6884517235948306432-6VXr)
+
+
+### Day 62: January 07, Thursday
+ 
+**Today's Progress**: Problem : [Longest Mountain](https://leetcode.com/problems/longest-mountain-in-array/)
+                                We use peak and valley method here.We start counting for peak and valley once we get a peak ie. a value is lesser than its succeeding value.Till the time it is so we keep peak as true ans move on and till we get a valley i.e. a value is greater than its succeeeding value we keep valley as true and move on.In case we get both peak and valley as true at the same time it means we have covered a mountain so we then calculate its length and compare it with initial length of an mountain.
+
+                                              
+**Link(s) to work**
+[Longest Mountain](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day62.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1478750722384547840)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day60-100daysofcode-freecodecamp-activity-6884517235948306432-6VXr)
              
