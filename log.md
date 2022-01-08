@@ -706,11 +706,11 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Sliding Window Maximum ](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day61.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1478750722384547840)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day60-100daysofcode-freecodecamp-activity-6884517235948306432-6VXr)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1479812117473619972)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day61-100daysofcode-freecodecamp-activity-6885576933820645376-ECsh)
 
 
-### Day 62: January 07, Thursday
+### Day 62: January 07, Friday
  
 **Today's Progress**: Problem : [Longest Mountain](https://leetcode.com/problems/longest-mountain-in-array/)
                                 We use peak and valley method here.We start counting for peak and valley once we get a peak ie. a value is lesser than its succeeding value.Till the time it is so we keep peak as true ans move on and till we get a valley i.e. a value is greater than its succeeeding value we keep valley as true and move on.In case we get both peak and valley as true at the same time it means we have covered a mountain so we then calculate its length and compare it with initial length of an mountain.
