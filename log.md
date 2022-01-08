@@ -719,6 +719,6 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Longest Mountain](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day62.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1478750722384547840)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day60-100daysofcode-freecodecamp-activity-6884517235948306432-6VXr)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1479813514579513344)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
              
