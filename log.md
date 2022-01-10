@@ -730,8 +730,8 @@ Find a starting point where the truck can start to get through the complete circ
 **Link(s) to work**
 [Rotten Oranges](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day63.cpp)
 
-[Post on twitter](https://twitter.com/pundhir_rakhi/status/1479813514579513344)\
-[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1480552092901072896)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day63-100daysofcode-freecodecamp-activity-6886317154505916416-h6RF)
 
 ### Day 64: January 09, Sunday
  
