@@ -721,4 +721,29 @@ Find a starting point where the truck can start to get through the complete circ
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1479813514579513344)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
+
+### Day 63: January 08, Saturday
+ 
+**Today's Progress**: Problem : [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)/
+                                We will be using BFS technique to traverse all adjacent oranges of any rotten orange.We start with pushing all rotten oranges into the queue then pop them one by one and visit their adjacent cells, if the cell contains a fresh orange(1) push it to the queue and mark it as rotten(2), when the queue becomes empty, stop.Then check if the total number of oranges(calculated by traversing the matrix) is equal to the number of oranges pushed into queue(since queue has only rotten oranges) then return time(incremented after processing oranges at a time) else return -1(i.e. it is impossible to rot all fresh oranges).Also, to calculate or visit nodes of a rotten orange we have used the concept of calculating next row and column by adding the row number or column number to the existing number.
+                                              
+**Link(s) to work**
+[Rotten Oranges](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day63.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1479813514579513344)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
+
+### Day 64: January 09, Sunday
+ 
+**Today's Progress**: Problem : [Delete N nodes after M nodes of a linked list](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)/
+                                We take a pointer initialize it with the head and traverse the linked list.We also maintain a counter variable which is zero initially and increment it as we move forward in the list.Till our counter variable is not equal to M we increment temp and when it becomes equal to M we have to delete N nodes from that point.To delete N nodes we simply change the address in the next field of prevoius node with the address mentioned in the Nth node.After this, we put the counter variable to zero again so that we can again count the M nodes to be skipped.
+
+                                              
+**Link(s) to work**
+[Delete N nodes after M nodes of a linked list](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day64.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1479813514579513344)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
+
+
              
