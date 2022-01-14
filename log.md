@@ -745,5 +745,27 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1479813514579513344)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
 
+### Day 65: January 10, Monday
+ 
+**Today's Progress**: Problem : [overlapping rectangles]/
+                                We can find all points and check if they lie inside the other rectangle or not but feasible will be to check for those conditions when the two rectangles will not overlap. These are - when a rectangle is above the other rectangle ( check this using the y coordinates ) and when a rectangle is to the left of the other rectangle ( check this using the x coordinates ) Also check if either rectangle is just a line.
+                                              
+**Link(s) to work**
+[overlapping rectangles](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day65.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1479813514579513344)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
+
+### Day 66: January 11, Tuesday
+ 
+**Today's Progress**: Problem : [run length encoding]/
+                                We traverse the string and count the occurences of every character then append that string character and its count to the result string then return it. OR We can make use of maps in STL. Create a map with characters as keys and integer as values then insert each characeter of the string into it and increment the count of that key as you traverse the string and encounter it.At last pop all key value pairs and append them to an empty string,use to_string function to convert integer count of characters into string so that they can be added to the answer string.
+                                              
+**Link(s) to work**
+[run length encoding]https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day66.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1479813514579513344)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
+
 
              
