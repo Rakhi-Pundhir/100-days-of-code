@@ -768,4 +768,15 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
 
 
+### Day 67: January 12, Wednesday
+ 
+**Today's Progress**: Problem : [Array Pair Sum Divisibility Problem]/
+                                 Here we are using the technique of remainders so we create a map that keeps frequency of remainders obtained by dividing each element of the array by the given number k.Then in case the remainder is zero and it is odd in frequency, we will return false since then it cannot form pairs.Also the case is same with frequency of k/2 remainder as it requires another number to form pairs.In all other cases any remainder x can be added to the remainder k-x to get divided by the target k so their frequency should match.In case it doesn't we return fale else we return true.
+                                              
+**Link(s) to work**
+[Array Pair Sum Divisibility Problem]https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day67.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi/status/1479813514579513344)\
+[Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day62-100daysofcode-freecodecamp-activity-6885578582651879424-j29H)
+
              
