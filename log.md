@@ -762,7 +762,7 @@ Find a starting point where the truck can start to get through the complete circ
                                 We traverse the string and count the occurences of every character then append that string character and its count to the result string then return it. OR We can make use of maps in STL. Create a map with characters as keys and integer as values then insert each characeter of the string into it and increment the count of that key as you traverse the string and encounter it.At last pop all key value pairs and append them to an empty string,use to_string function to convert integer count of characters into string so that they can be added to the answer string.
                                               
 **Link(s) to work**
-[run length encoding]https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day66.cpp)
+[run length encoding](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day66.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1482330720995786756)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day66-100daysofcode-freecodecamp-activity-6888092883686068224-w9k7)
@@ -774,9 +774,53 @@ Find a starting point where the truck can start to get through the complete circ
                                  Here we are using the technique of remainders so we create a map that keeps frequency of remainders obtained by dividing each element of the array by the given number k.Then in case the remainder is zero and it is odd in frequency, we will return false since then it cannot form pairs.Also the case is same with frequency of k/2 remainder as it requires another number to form pairs.In all other cases any remainder x can be added to the remainder k-x to get divided by the target k so their frequency should match.In case it doesn't we return fale else we return true.
                                               
 **Link(s) to work**
-[Array Pair Sum Divisibility Problem]https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day67.cpp)
+[Array Pair Sum Divisibility Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day67.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi/status/1482331553137324032)\
 [Post on LinkedIn](https://www.linkedin.com/posts/rakhi-pundhir-97aa0620b_day67-100daysofcode-freeocdecamp-activity-6888093428953960448-x4LT)
+
+### Day 68: January 13, Thursday
+ 
+**Today's Progress**: Problem : Merge arrays without using extra space
+                                 use pointers technique here and keep on epointer at start of first array and one at start of another array and the thirs one at the end of the first array,now as you traverse the array if element of first array is smaller than the second one then simply move further else swap the values of first and second array but swap the value of second array with the value pointed by the third pointer since it is the largest and so should be sent to the second array.
+                                              
+**Link(s) to work**
+[Array Pair Sum Divisibility Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day68.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 69: January 14, Friday
+ 
+**Today's Progress**: Problem : Possible captures for rook
+                                 First find out the location of rook that is the row and column number of the rook's cell then traverse the matrix and check if there is any pawn then increment the counter variable and in case there is any bishop then stop for that iteration and move further till the rook reaches end of the row or column.To check in the upward,downward,right or left direction simply keep row/column common and increment/decrement the other.
+                                              
+**Link(s) to work**
+[Array Pair Sum Divisibility Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day69.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 70: January 15, Saturday
+ 
+**Today's Progress**: Problem : Earliest full bloom
+                                 This is based on the fact that we can plant another tree when previous plant is in growing stage so we sort them according to their grow time so that we can plant more trees that time and hence they would require less time to bloom together.Also we add the startdate of previous plant to next one since it was planted after that and then we can take maximum of them.
+                                              
+**Link(s) to work**
+[Array Pair Sum Divisibility Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day70.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 71: January 16, Sunday
+ 
+**Today's Progress**: Problem : Minimum jumps to reach end of array
+                               Here, thake a maxreach to store the maximum index that can be reached from a particular index which is the sum of index and the value at that index.Then also take steps and jump and while traversing the array update them.When you move forward steps are decreased and when the steps becomes zero that means we have completed one jump so increment jumps.When we reach the end of the array then return jump and in case the maxreach becomes lesser than the ith iteration return -1 as it is now not possible to reach the end.
+                                              
+**Link(s) to work**
+[Array Pair Sum Divisibility Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day71.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
              
