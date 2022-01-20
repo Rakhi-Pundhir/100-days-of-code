@@ -781,22 +781,23 @@ Find a starting point where the truck can start to get through the complete circ
 
 ### Day 68: January 13, Thursday
  
-**Today's Progress**: Problem : Merge arrays without using extra space
-                                 use pointers technique here and keep on epointer at start of first array and one at start of another array and the thirs one at the end of the first array,now as you traverse the array if element of first array is smaller than the second one then simply move further else swap the values of first and second array but swap the value of second array with the value pointed by the third pointer since it is the largest and so should be sent to the second array.
+**Today's Progress**: Problem : Possible captures for rook
+                                First find out the location of rook that is the row and column number of the rook's cell then traverse the matrix and check if there is any pawn then increment the counter variable and in case there is any bishop then stop for that iteration and move further till the rook reaches end of the row or column.To check in the upward,downward,right or left direction simply keep row/column common and increment/decrement the other.
                                               
 **Link(s) to work**
-[Array Pair Sum Divisibility Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day68.cpp)
+[Possible captures for rook](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day68.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+
 ### Day 69: January 14, Friday
  
-**Today's Progress**: Problem : Possible captures for rook
-                                 First find out the location of rook that is the row and column number of the rook's cell then traverse the matrix and check if there is any pawn then increment the counter variable and in case there is any bishop then stop for that iteration and move further till the rook reaches end of the row or column.To check in the upward,downward,right or left direction simply keep row/column common and increment/decrement the other.
+**Today's Progress**: Problem : Merge arrays without using extra space
+                                use pointers technique here and keep on epointer at start of first array and one at start of another array and the thirs one at the end of the first array,now as you traverse the array if element of first array is smaller than the second one then simply move further else swap the values of first and second array but swap the value of second array with the value pointed by the third pointer since it is the largest and so should be sent to the second array.
                                               
 **Link(s) to work**
-[Array Pair Sum Divisibility Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day69.cpp)
+[Merge arrays without using extra space](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day69.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
@@ -807,7 +808,7 @@ Find a starting point where the truck can start to get through the complete circ
                                  This is based on the fact that we can plant another tree when previous plant is in growing stage so we sort them according to their grow time so that we can plant more trees that time and hence they would require less time to bloom together.Also we add the startdate of previous plant to next one since it was planted after that and then we can take maximum of them.
                                               
 **Link(s) to work**
-[Array Pair Sum Divisibility Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day70.cpp)
+[Earliest full bloom](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day70.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
@@ -818,7 +819,7 @@ Find a starting point where the truck can start to get through the complete circ
                                Here, thake a maxreach to store the maximum index that can be reached from a particular index which is the sum of index and the value at that index.Then also take steps and jump and while traversing the array update them.When you move forward steps are decreased and when the steps becomes zero that means we have completed one jump so increment jumps.When we reach the end of the array then return jump and in case the maxreach becomes lesser than the ith iteration return -1 as it is now not possible to reach the end.
                                               
 **Link(s) to work**
-[Array Pair Sum Divisibility Problem](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day71.cpp)
+[Minimum jumps to reach end of array](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day71.cpp)
 
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
