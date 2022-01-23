@@ -824,4 +824,52 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+### Day 72: January 17, Monday
+ 
+**Today's Progress**: Problem : Bellman Ford Algorithm
+                                This algorithm is used to find the shortest path from a source node to all other nodes just like Dijkstra's algorithm but Bellman Ford can be used for detecting negative cycles and it works for negative weights also.Assign a status 0 to the sorce node and infinity to all other nodes.Start from the source node and relax its adjacent edges then move to the next node and continue this for n-1 passes where n is the total number of nodes.After n-1 passes we will have the shortest distance.
+                                              
+**Link(s) to work**
+[Bellman Ford Algorithm](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day72.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 73: January 18, Tuesday
+ 
+**Today's Progress**: Problem : Next Permutation
+                               Step 1: traverse from right and find the first element that doesn't follow descending order.
+                               Step 2:Traverse from right till x and find the smallest number just greater than x
+                               Step 3:Swap x and y
+                               Step 4:Reverse all from x+1 to end
+                               or we can use next_permutation of C++ STL
+                                              
+**Link(s) to work**
+[Next Permutation](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day73.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 74: January 19, Wednesday
+ 
+**Today's Progress**: Problem : Minimum Moves 
+                               If target number is even then do some calculations that involve a double and an increment.In case the target number is odd then do some calculations that involve only a double operation.Continue this process till the number od doubles becomes zero or till the target number is greater than one.
+                                              
+**Link(s) to work**
+[Minimum Moves](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day74.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 75: January 20, Thursday
+ 
+**Today's Progress**: Problem : Divide a string into groups of size k
+                                We will extract a substring of k characters from the string and keep on pushing that, till complete groups are formed.After the loop, all full groups are included into the answer vector and after this we take remainder to find out how many characters are missing.Append the missing characters to a new string and then fill it by the filler element till the group is completed.
+                                              
+**Link(s) to work**
+[Divide a string into groups of size k](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day75.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
              
