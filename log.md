@@ -872,4 +872,26 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+### Day 76: January 21, Friday
+ 
+**Today's Progress**: Problem : Rearange array elements by sign
+                                We traverse the array and put all negative elements into another array and all positve elements into a third array.Then we again loop over the given array and keep placing the elements into their desired position from the other two arrays using pointers to all the three arrays and we start with placing the first element from the positive element's array.
+                                              
+**Link(s) to work**
+[ Rearange array elements by sign](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day76.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 77: January 22, Saturday
+ 
+**Today's Progress**: Problem : Find all lonely numbers in the array
+                                You are given an integer array nums. A number x is lonely when it appears only once, and no adjacent numbers (i.e. x + 1 and x - 1) appear in the array.This problem becomes simple if we try to solve it with the help of maps in C++ STL.We can keep record of the frequency of all array elements and then loop over the array once to check if there exists a number that has come only once int he array and also there is no number present in the array that is its neighbour element and so we increase the count of all such numbers.
+                                              
+**Link(s) to work**
+[Find all lonely numbers in the array](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day77.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
              
