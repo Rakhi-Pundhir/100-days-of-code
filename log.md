@@ -894,4 +894,26 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+### Day 78: January 23, Sunday
+ 
+**Today's Progress**: Problem : Smallest Subarray with sum greater than a given value
+                                We keep adding elements till sum becomes greater than x,once it is so we try to decrease length of till sum remains greater than x and keep on comparing the length of this subarray with the minimum length.
+                                              
+**Link(s) to work**
+[Smallest Subarray with sum greater than a given value](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day78.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 79: January 24, Monday
+ 
+**Today's Progress**: Problem : Find minimum operations to make array palindrome
+                                We take two pointers start and end since we can merge array elements(adjacent ones only) we check if arr[i] > arr[j] in that case we will merge j and its adjacent value so as to bring the sum closer to arr[i] and same we do for its opposite case.
+                                              
+**Link(s) to work**
+[Find minimum operations to make array palindrome](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day79.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
              
