@@ -916,4 +916,15 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+### Day 80: January 25, Tuesday
+ 
+**Today's Progress**: Problem : All Divisions With the Highest Score of a Binary Array
+                                It would to efficient if we take two vectors one to store the count of zeroes to the left of an index i and another one to store the count of one's to the right and itself of an index.Then using the sum of respective index find the maximum value and loop over the arrays to find and push those indices into the answer vector for which the sum is equal to the maximum value.
+                                              
+**Link(s) to work**
+[All Divisions With the Highest Score of a Binary Array](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day80.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
              
