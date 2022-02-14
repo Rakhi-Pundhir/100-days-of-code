@@ -982,4 +982,59 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+### Day 86: January 31, Monday
+ 
+**Today's Progress**: Problem : Dijkstra's Algorithm
+                                Here, we give an ifinite distance to all nodes and a distance zero to the sorce node and then we take the node with minimum distance and relax its adjacent edges so for this I have used a priority queue that would implement a min heap and store the distance and the node so that we always get a node with least distance.
+                                              
+**Link(s) to work**
+[Dijkstra's Algorithm](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day86.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 87: February 01, Tuesday
+ 
+**Today's Progress**: Problem : Bellman Ford Algorithm
+                                This algorithm works for negative edges and can also detect negative edge cycle and here we do exactly n-1 passes and relax every edge of all nodes and incase after n-1 pass there is still a need to relax an edge means there exists a negative cycle.
+                                              
+**Link(s) to work**
+[Bellman Ford Algorithm](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day87.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 88: February 02, Wednesday
+ 
+**Today's Progress**: Problem : Floyd Warshall Algorithm
+                                This algorithm is used to find shortest distance between every node if a third node is brought in between them. It fails to work on negative weight cycle but can detect it.
+                                              
+**Link(s) to work**
+[Floyd Warshall Algorithm](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day88.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 89: February 03, Thursday
+ 
+**Today's Progress**: Problem : Disjoint Set Union
+                                This is used to find if two nodes belong to the same component or not.Here, we make sets of all nodes and take two arrays parent and rank and when there is a union between two nodes we find their parent using findparent function and then we compare the rank of thier parents.The parent with less rank can be attached to the other and so that becomes its parent node and vice-versa.In case rank of both the parents is same we can make eiehere of them as parent and increase its rank.
+                                              
+**Link(s) to work**
+[Disjoint Set Union](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day89.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 90: February 04, Friday
+ 
+**Today's Progress**: Problem : Krushkal's Alogrithm
+                                We have to take the minimum weight edge and insert it into the minimum spanning tree so that no cycle is created in the tree.For this we use disjoint set union.First, we store edges in increasing order of their weights and then take out an edge one by one and check for every edge if the nodes sharing the edge belong to the same component or not because if they do it means that their parent is same so we would no include it.
+                                              
+**Link(s) to work**
+[Krushkal's Algorithm](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day90.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
              
