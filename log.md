@@ -927,4 +927,59 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+### Day 81: January 26, Wednesday
+ 
+**Today's Progress**: Problem : Depth First Search in Graph
+                                It implements using a stack data structure which works on LIFO principle.In dfs we visit children before siblings of any node.Here, we go into depth of a node and is simply a traversal technique for a graph.
+                                              
+**Link(s) to work**
+[Depth First Search in Graph](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day81.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 82: January 27, Thursday
+ 
+**Today's Progress**: Problem : Detect cycle in an undirected graph using dfs
+                                While traversing a node if it happens that the node was already traversed and is also not its parent then there exists a cycle in that graph(undirected) so we make recursive calls when for any unvisited node and pass that node along with its parent.
+                                              
+**Link(s) to work**
+[ Detect cycle in an undirected graph using dfs](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day82.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 83: January 28, Friday
+ 
+**Today's Progress**: Problem : Detect cycle in a directed graph using dfs
+                                While traversing the graph if a node is visited then it is not necessary that there exists a cycle as in a directed graph we can reach node from different nodes and to keep check on this we take two visisted arrays one to account for its visit in the current dfs and the other to simply mark it as visisted, cycle exists only when a node is marked visisted in both of these arrays.
+                                              
+**Link(s) to work**
+[ Detect cycle in a directed graph using dfs](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day83.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 84: January 29, Saturday
+ 
+**Today's Progress**: Problem : Number of islands
+                                When you find an island increment the count and make recursive calls to check for adjacent cells of the grid, if a cell is land it was included so unmark it and if it is water then do not make any change. 
+                                              
+**Link(s) to work**
+[Number of islands](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day84.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 85: January 30, Sunday
+ 
+**Today's Progress**: Problem : Topological sort using dfs
+                                Topological sort is a linear oredering of nodes when a vertex u comes before vertex v for any directed edge from u to v, or we can say that that node comes first in this ordereing that has least indegree.So, we use dfs to store that node in a stack for which function call is over first so that for u to v edge u is always before v.
+                                              
+**Link(s) to work**
+[Topological sort using dfs](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day85.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
              
