@@ -1037,4 +1037,59 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+### Day 91: February 05, Saturday
+ 
+**Today's Progress**: Problem : Breadth First Search
+                                This is a graph traversal technique and it uses a queue data structure that follows FIFO principle.In bfs we visit siblings before children and insert them into the queue and then pop them one by one and process.
+                                              
+**Link(s) to work**
+[Breadth First Search](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day91.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 92: February 06, Monday
+ 
+**Today's Progress**: Problem : Detect cycle in an undirected graph using bfs
+                                while traversing the graph if we encounter a node that is already visited and is also not a parent then it means there exists a cycle so for this we create a queue and store node and its parent in it and traverse the graph using adjacency list.
+                                              
+**Link(s) to work**
+[Detect cycle in an undirected graph using bfs](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day92.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 93: February 07, Tuesday
+ 
+**Today's Progress**: Problem : Detect cycle in a directed graph using bfs
+                                We will use topological sort here as it can works only for a directed acyclic graph and so if we are able to find topological ordering for a given directed graph then it is confirm that it does not contain any cycle.
+                                              
+**Link(s) to work**
+[Detect cycle in a directed graph using bfs](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day93.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 94: February 08, Wednesday
+ 
+**Today's Progress**: Problem : Topological Sort using bfs
+                                We create an indegree array(no. of incoming egdes to a node) and fill it then push those nodes into a queue for which indegree is zero and also decrease indegree of its adjacent node as in topological ordering for u to v u comes before v that is node with indegree less is before the other. 
+                                              
+**Link(s) to work**
+[Topologicla sort using bfs](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day94.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 95: February 09, Thursday
+ 
+**Today's Progress**: Problem : Prim's Algorithm
+                                We take three arrays one for checking if a node is included in the minimum spanning tree or not, one to keep record of the connected edges of included nodes and the last one to maintain parent of a node.Aslo, we use a priority queue(min-heap) to give us the minimum weight edge and its node.
+                                              
+**Link(s) to work**
+[Prim's Algorithm](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day95.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
              
