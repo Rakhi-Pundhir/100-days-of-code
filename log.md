@@ -1092,4 +1092,26 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+### Day 96: February 10, Friday
+ 
+**Today's Progress**: Problem : Heapify Method
+                                First we build a heap and call this method to rearrange the nodes so that they follow heap's property.In max heap the parent is always greare than the child so it checks for this conditiona and if not satisfied it swaps them and continue.
+                                              
+**Link(s) to work**
+[Heapify Method](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day96.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 97: February 11, Saturday
+ 
+**Today's Progress**: Problem : Heap Sort
+                                First we build a max heap of the given array elements and then change the first element with the last element and call heapify method to maintain heap's property for the remaining heap and in this process the largest element comes at the last index of the array and so the array starts sorting from the back. 
+                                              
+**Link(s) to work**
+[Heap Sort](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day97.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
              
