@@ -1114,4 +1114,37 @@ Find a starting point where the truck can start to get through the complete circ
 [Post on twitter](https://twitter.com/pundhir_rakhi)\
 [Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
 
+### Day 98: February 12, Sunday
+ 
+**Today's Progress**: Problem : Bipartite Graph using BFS
+                                A bipartite graph is one that can be colored using two different colors such that adjacent nodes have different colors.So, we see that whenever there is a cycle having length odd then the graph cannot be a bipartite else it can be.Here, we have used a queue data structure and bfs traversal to check in the graph if there is any node which has same color as that of its adjacent then we print the graph as not a bipartite one.
+                                              
+**Link(s) to work**
+[Bipartite Graph using BFS](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day98.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 99: February 13, Monday
+ 
+**Today's Progress**: Problem : Bipartite Graph using DFS
+                                A bipartite graph is one that can be colored using two different colors such that adjacent nodes have different colors. We make a dfs traversal and start with making the first node of a component of graph as color 1 then check for its adjacent edges.In case the edge is not marked we mark it with the color opposite to its node and make further dfs call and in case the edge has a color we check if that color is same as its adjacent node or not.If it is same we return false.
+                                              
+**Link(s) to work**
+[Bipartite Graph using DFS](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day99.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
+### Day 100: February 14, Tuesday
+ 
+**Today's Progress**: Problem : Strongly Connected Components of a Graph using Kosaraju's Algorithm
+                                To print all connected components of a graph separately if we perform dfs then all will print together but if we make dfs call in reverse or according to finishing time then we get the desired result.So for this we first find this ordering which is topological ordering and then we take transpose of the graph and then finally call dfs on this transposed graph in order of the nodes obtained from the stack of topological sort.
+                                              
+**Link(s) to work**
+[Strongly Connected Components of a Graph using Kosaraju's Algorithm](https://github.com/Rakhi-Pundhir/100daysofcode/blob/master/day100.cpp)
+
+[Post on twitter](https://twitter.com/pundhir_rakhi)\
+[Post on LinkedIn](https://www.linkedin.com/in/rakhi-pundhir-97aa0620b/)
+
              
